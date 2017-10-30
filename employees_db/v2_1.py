@@ -112,13 +112,12 @@ class Database():
 
 
 def main():
-    d = Database("test")
-    d.add_employee()
-    d.show_ID()
-    d.delete_employee(1)
-    d.close_database()
-
-
+    #d = Database("test")
+    #d.add_employee()
+    #d.show_ID()
+    #d.delete_employee(1)
+    #d.close_database()
+    print("")
 
 
 main()
