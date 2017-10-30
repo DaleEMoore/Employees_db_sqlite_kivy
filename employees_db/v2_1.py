@@ -112,6 +112,11 @@ class Database():
 
 
 def main():
+    d = Database("test")
+    d.add_employee() # Really in database now.
+    d.show_ID()
+    d.delete_employee(1) # Really deletes.
+    d.close_database()
     #d = Database("test")
     #d.add_employee()
     #d.show_ID()

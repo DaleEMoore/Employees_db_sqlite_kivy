@@ -1,0 +1,19 @@
+
+Overview
+Forked https://github.com/sleter/Employees_db_sqlite_kivy
+to https://github.com/DaleEMoore/Employees_db_sqlite_kivy
+
+
+
+TODO
+Evaluate database usage in kivy program. Looking for full CRDS example.
+    run employees_db/ui.py
+    button "press"
+    run employees_db/v2_1.py
+    Enter data on Python Console. Not tied to kivy that I can find.
+    emailed Szymon Janowski <szy.janowski@gmail.com> (from git log) hoping for insight!
+
+
+Logs
+Mon 30 Oct 2017 6:19 PM CST
+Created
