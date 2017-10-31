@@ -14,6 +14,31 @@ Evaluate database usage in kivy program. Looking for full CRDS example.
     emailed Szymon Janowski <szy.janowski@gmail.com> (from git log) hoping for insight!
     Szymon said "there is a CRUD SQLite3 database example." I've asked him where it is.
 
+Notice that double clicking test.db in Employees_db_sqlite_kivy at PC Mercury2 as dalem gets
+    DB Browser for SQLite!
+    How is that functioning but PC QnD gets sqlite3?
+
+Szymon says
+    I learned from these tutorials:
+     - https://www.youtube.com/watch?v=yCA5Wzdkfag
+        Code & Transcript : http://goo.gl/Uepvyd http://www.newthinktank.com/2016/08/learn-program-19/
+        SQLite Tutorial : https://goo.gl/x48oHv https://www.youtube.com/playlist?list=PLGLfVvz_LVvTsslWD1HBQEjBbmAaAF9Xy
+            SQLite3 Cheat Sheet: http://goo.gl/vwD4F http://www.newthinktank.com/2013/05/sqlite3-tutorial/
+            Best SQLite Book : http://goo.gl/YG6BEv  https://www.amazon.com/dp/1430232250//ref=cm_sw_su_dp?tag=nethta-20
+                The Definitive Guide to SQLite (Expert's Voice in Open Source) http://benaiahbooks.com/assets/upload/booklet/small.pdf
+     - https://www.youtube.com/watch?v=QjICgmk31js&list=PLGLfVvz_LVvTsslWD1HBQEjBbmAaAF9Xy
+
+Shift research to "Python MVC"?
+    https://stackoverflow.com/questions/38042632/mvc-the-simplest-example
+    https://github.com/davidcorne/Design-Patterns-In-Python/blob/master/UI/MVC.py
+        python2,
+    https://sukhbinder.wordpress.com/2014/12/25/an-example-of-model-view-controller-design-pattern-with-tkinter-python/
+    https://realpython.com/blog/python/the-model-view-controller-mvc-paradigm-summarized-with-legos/
+
+Really GREAT Design-Patterns-In-Python https://bitbucket.org/davidcorne/design-patterns-in-python
+    BLOG posts about this code https://davidcorne.com/category/design-patterns-in-python
+
+
 
 Logs
 Mon 30 Oct 2017 6:19 PM CST
