@@ -12,6 +12,7 @@ Evaluate database usage in kivy program. Looking for full CRDS example.
     run employees_db/v2_1.py
     Enter data on Python Console. Not tied to kivy that I can find.
     emailed Szymon Janowski <szy.janowski@gmail.com> (from git log) hoping for insight!
+    Szymon said "there is a CRUD SQLite3 database example." I've asked him where it is.
 
 
 Logs

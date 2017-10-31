@@ -112,6 +112,14 @@ class Database():
 
 
 def main():
+    # Mon 30 Oct 2017 DaleEMoore@gMail.Com un-commented the following database statements
+    # and they work fine.
+    # Is Szymon planning on using this as the Model in Model-View-Controller (MVC?)
+    # Create Read Update Delete (CRUD)
+    # Create add_employee()
+    # Read show_employees()
+    # Update ? Is this the search - where did I see search? In another example?
+    # Delete delete_employee()
     d = Database("test")
     d.add_employee() # Really in database now.
     d.show_ID()
